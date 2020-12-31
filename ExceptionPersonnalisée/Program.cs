@@ -10,7 +10,6 @@ namespace ExceptionPersonnalisee
         {
             try
             {
-
                 Console.Write("Room number: ");
                 int number = int.Parse(Console.ReadLine());
                 Console.Write("Check-in date (yyyy-MM-dd): ");
